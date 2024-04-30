@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karin\\Desktop\\Calendar2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|c:\\users\\karin\\desktop\\calendar2\\view\\calendarpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|solutionrelative:view\\calendarpageview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|c:\\users\\karin\\desktop\\calendar2\\view\\calendarpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|solutionrelative:view\\calendarpageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|c:\\users\\karin\\desktop\\calendar2\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|solutionrelative:view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|c:\\users\\karin\\desktop\\calendar2\\view\\choosedaypageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|solutionrelative:view\\choosedaypageview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|c:\\users\\karin\\desktop\\calendar2\\view\\daycard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|solutionrelative:view\\daycard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|c:\\users\\karin\\desktop\\calendar2\\viewmodel\\choosedayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|solutionrelative:viewmodel\\choosedayviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|c:\\users\\karin\\desktop\\calendar2\\viewmodel\\daycardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|solutionrelative:viewmodel\\daycardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karin\\Desktop\\Calendar2\\bin\\Debug\\net7.0-windows\\DailyActivities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net7.0-windows\\DailyActivities.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|c:\\users\\karin\\desktop\\calendar2\\viewmodel\\helpers\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|solutionrelative:viewmodel\\helpers\\jsonhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|c:\\users\\karin\\desktop\\calendar2\\model\\dailyactivitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|solutionrelative:model\\dailyactivitymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|c:\\users\\karin\\desktop\\calendar2\\model\\allactivitiesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B35760C6-0E10-4544-A8F0-82E5CA6FF788}|Calendar.csproj|solutionrelative:model\\allactivitiesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalendarPageView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\Calendar2\\View\\CalendarPageView.xaml.cs",
+              "RelativeDocumentMoniker": "View\\CalendarPageView.xaml.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\Calendar2\\View\\CalendarPageView.xaml.cs",
+              "RelativeToolTip": "View\\CalendarPageView.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T15:35:23.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalendarPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\Calendar2\\View\\CalendarPageView.xaml",
+              "RelativeDocumentMoniker": "View\\CalendarPageView.xaml",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\Calendar2\\View\\CalendarPageView.xaml",
+              "RelativeToolTip": "View\\CalendarPageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-30T08:23:39.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DailyActivities.json",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\Calendar2\\bin\\Debug\\net7.0-windows\\DailyActivities.json",
+              "RelativeDocumentMoniker": "bin\\Debug\\net7.0-windows\\DailyActivities.json",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\Calendar2\\bin\\Debug\\net7.0-windows\\DailyActivities.json",
+              "RelativeToolTip": "bin\\Debug\\net7.0-windows\\DailyActivities.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-29T13:25:40.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DailyActivityModel.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\Calendar2\\Model\\DailyActivityModel.cs",
+              "RelativeDocumentMoniker": "Model\\DailyActivityModel.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\Calendar2\\Model\\DailyActivityModel.cs",
+              "RelativeToolTip": "Model\\DailyActivityModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:53:35.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AllActivitiesModel.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\Calendar2\\Model\\AllActivitiesModel.cs",
+              "RelativeDocumentMoniker": "Model\\AllActivitiesModel.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\Calendar2\\Model\\AllActivitiesModel.cs",
+              "RelativeToolTip": "Model\\AllActivitiesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:13:34.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JsonHelper.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\Calendar2\\ViewModel\\Helpers\\JsonHelper.cs",
+              "RelativeDocumentMoniker": "ViewModel\\Helpers\\JsonHelper.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\Calendar2\\ViewModel\\Helpers\\JsonHelper.cs",
+              "RelativeToolTip": "ViewModel\\Helpers\\JsonHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T18:06:51.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DayCard.xaml",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\Calendar2\\View\\DayCard.xaml",
+              "RelativeDocumentMoniker": "View\\DayCard.xaml",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\Calendar2\\View\\DayCard.xaml",
+              "RelativeToolTip": "View\\DayCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T13:41:15.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChooseDayPageView.xaml",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\Calendar2\\View\\ChooseDayPageView.xaml",
+              "RelativeDocumentMoniker": "View\\ChooseDayPageView.xaml",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\Calendar2\\View\\ChooseDayPageView.xaml",
+              "RelativeToolTip": "View\\ChooseDayPageView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T14:46:10.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChooseDayViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\Calendar2\\ViewModel\\ChooseDayViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ChooseDayViewModel.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\Calendar2\\ViewModel\\ChooseDayViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ChooseDayViewModel.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:43:14.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\Calendar2\\View\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "View\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\Calendar2\\View\\MainWindow.xaml",
+              "RelativeToolTip": "View\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-25T13:41:14.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DayCardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\Desktop\\Calendar2\\ViewModel\\DayCardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\DayCardViewModel.cs",
+              "ToolTip": "C:\\Users\\karin\\Desktop\\Calendar2\\ViewModel\\DayCardViewModel.cs",
+              "RelativeToolTip": "ViewModel\\DayCardViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:41:15.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

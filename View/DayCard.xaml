@@ -1,0 +1,28 @@
+﻿<UserControl x:Class="Calendar.DayCard"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"     
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" Height="50" Width="50"
+             Loaded= "DayCard_Loaded">
+
+
+    <Grid>
+        <Grid.ContextMenu>
+            <ContextMenu>
+                <MenuItem Header="Открыть день" Command="{Binding OpenDayCommand}" />
+                <Separator/>
+                <MenuItem Header="Очистить день" Command="{Binding ClearDayCommand}" />
+            </ContextMenu>
+        </Grid.ContextMenu>
+        <Grid Margin="5" Background="#FF65688F">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="{Binding Day}" HorizontalAlignment="Center" Foreground="#FFCBCBCB" VerticalAlignment="Center"/>
+            <Image x:Name="fon" Grid.Row="1" Stretch="Fill" Source="/Images/matietoploho.jpg" />
+            <Button Grid.RowSpan="2" Command="{Binding OpenDayCommand}" Style="{x:Null}" Background="Transparent" BorderBrush="#FFB4B4B4" />
+        </Grid>
+    </Grid>
+</UserControl>

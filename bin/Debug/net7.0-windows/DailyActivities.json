@@ -1,0 +1,154 @@
+{
+  "AllActivities": {
+    "2024-04-02": {
+      "Date": "2024-04-02T00:00:00",
+      "SelectedActivities": [
+        {
+          "Name": "Погладил собакена",
+          "IconPath": "pack://application:,,,/Images/dog.jpg",
+          "IsSelected": true
+        },
+        {
+          "Name": "Погладил котейку",
+          "IconPath": "pack://application:,,,/Images/cat.jpg",
+          "IsSelected": true
+        },
+        {
+          "Name": "Погладил птица",
+          "IconPath": "pack://application:,,,/Images/bird.jpg",
+          "IsSelected": true
+        },
+        {
+          "Name": "Погладил БАТОН",
+          "IconPath": "pack://application:,,,/Images/baton.jpg",
+          "IsSelected": false
+        }
+      ]
+    },
+    "2024-04-10": {
+      "Date": "2024-04-10T00:00:00",
+      "SelectedActivities": [
+        {
+          "Name": "Погладил собакена",
+          "IconPath": "pack://application:,,,/Images/dog.jpg",
+          "IsSelected": false
+        },
+        {
+          "Name": "Погладил котейку",
+          "IconPath": "pack://application:,,,/Images/cat.jpg",
+          "IsSelected": false
+        },
+        {
+          "Name": "Погладил птица",
+          "IconPath": "pack://application:,,,/Images/bird.jpg",
+          "IsSelected": true
+        },
+        {
+          "Name": "Погладил БАТОН",
+          "IconPath": "pack://application:,,,/Images/baton.jpg",
+          "IsSelected": false
+        }
+      ]
+    },
+    "2024-04-17": {
+      "Date": "2024-04-17T00:00:00",
+      "SelectedActivities": [
+        {
+          "Name": "Погладил собакена",
+          "IconPath": "pack://application:,,,/Images/dog.jpg",
+          "IsSelected": false
+        },
+        {
+          "Name": "Погладил котейку",
+          "IconPath": "pack://application:,,,/Images/cat.jpg",
+          "IsSelected": false
+        },
+        {
+          "Name": "Погладил птица",
+          "IconPath": "pack://application:,,,/Images/bird.jpg",
+          "IsSelected": false
+        },
+        {
+          "Name": "Погладил БАТОН",
+          "IconPath": "pack://application:,,,/Images/baton.jpg",
+          "IsSelected": false
+        }
+      ]
+    },
+    "2024-04-04": {
+      "Date": "2024-04-04T00:00:00",
+      "SelectedActivities": [
+        {
+          "Name": "Погладил собакена",
+          "IconPath": "pack://application:,,,/Images/dog.jpg",
+          "IsSelected": true
+        },
+        {
+          "Name": "Погладил котейку",
+          "IconPath": "pack://application:,,,/Images/cat.jpg",
+          "IsSelected": true
+        },
+        {
+          "Name": "Погладил птица",
+          "IconPath": "pack://application:,,,/Images/bird.jpg",
+          "IsSelected": false
+        },
+        {
+          "Name": "Погладил БАТОН",
+          "IconPath": "pack://application:,,,/Images/baton.jpg",
+          "IsSelected": false
+        }
+      ]
+    },
+    "2024-04-01": {
+      "Date": "2024-04-01T00:00:00",
+      "SelectedActivities": [
+        {
+          "Name": "Погладил собакена",
+          "IconPath": "pack://application:,,,/Images/dog.jpg",
+          "IsSelected": true
+        },
+        {
+          "Name": "Погладил котейку",
+          "IconPath": "pack://application:,,,/Images/cat.jpg",
+          "IsSelected": false
+        },
+        {
+          "Name": "Погладил птица",
+          "IconPath": "pack://application:,,,/Images/bird.jpg",
+          "IsSelected": true
+        },
+        {
+          "Name": "Погладил БАТОН",
+          "IconPath": "pack://application:,,,/Images/baton.jpg",
+          "IsSelected": false
+        }
+      ]
+    },
+    "2024-04-06": {
+      "Date": "2024-04-06T00:00:00",
+      "SelectedActivities": [
+        {
+          "Name": "Погладил собакена",
+          "IconPath": "pack://application:,,,/Images/dog.jpg",
+          "IsSelected": true
+        },
+        {
+          "Name": "Погладил котейку",
+          "IconPath": "pack://application:,,,/Images/cat.jpg",
+          "IsSelected": false
+        },
+        {
+          "Name": "Погладил птица",
+          "IconPath": "pack://application:,,,/Images/bird.jpg",
+          "IsSelected": false
+        },
+        {
+          "Name": "Погладил БАТОН",
+          "IconPath": "pack://application:,,,/Images/baton.jpg",
+          "IsSelected": false
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="1d808cd7-382c-485c-a8b8-695c1e6c6149.jpg" />
+    <None Remove="Images\baton.jpg" />
+    <None Remove="Images\bird.jpg" />
+    <None Remove="Images\cat.jpg" />
+    <None Remove="Images\cutepic.jpg" />
+    <None Remove="Images\dog.jpg" />
+    <None Remove="Images\matietoploho.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="5.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\1d808cd7-382c-485c-a8b8-695c1e6c6149.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\baton.jpg" />
+    <Resource Include="Images\bird.jpg" />
+    <Resource Include="Images\cat.jpg" />
+    <Resource Include="Images\cutepic.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\dog.jpg" />
+    <Resource Include="Images\matietoploho.jpg" />
+  </ItemGroup>
+
+</Project>
